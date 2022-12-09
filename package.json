@@ -1,5 +1,5 @@
 {
-  "name": "express-demo",
+  "name": "vidly",
   "version": "0.0.1",
   "description": "express demo",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/alhaji-aki/express-demo.git"
+    "url": "git+ssh://git@github.com/alhaji-aki/vidly.git"
   },
   "keywords": [
     "node",
@@ -19,9 +19,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alhaji-aki/express-demo/issues"
+    "url": "https://github.com/alhaji-aki/vidly/issues"
   },
-  "homepage": "https://github.com/alhaji-aki/express-demo#readme",
+  "homepage": "https://github.com/alhaji-aki/vidly#readme",
   "dependencies": {
     "express": "^4.18.2"
   }
